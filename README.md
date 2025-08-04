@@ -105,8 +105,13 @@ countries = temp_data['Area'].value_counts()
 yearly_temps = temp_data.groupby('Year')['Value'].mean()
 ```
 
-**📸 Expected Screenshot: Data Overview**
-![Add screenshot showing: Dataset info, country counts, and basic statistics table]
+** Data Overview**
+
+<img width="725" height="301" alt="Image" src="https://github.com/user-attachments/assets/1625a324-c514-4119-a968-7124a2f8dfb6" />
+
+
+<img width="854" height="401" alt="Image" src="https://github.com/user-attachments/assets/baa918c2-d614-4165-8800-e0f1b0af3faf" />
+
 
 ---
 
@@ -136,10 +141,19 @@ seasonal_groups = [group['Value'].values for name, group in monthly_data.groupby
 f_stat, anova_p = stats.f_oneway(*seasonal_groups)
 ```
 
-**📸 Expected Screenshot: Temporal Trends**
-![Add screenshot showing: Annual temperature trend line with confidence intervals and seasonal patterns]
+**📸 Temporal Trends**
+
+
+<img width="900" height="405" alt="Image" src="https://github.com/user-attachments/assets/a77452a4-6d8f-42da-a844-632ea1d10e4d" />
+
+
+<img width="899" height="382" alt="Image" src="https://github.com/user-attachments/assets/ed878242-1b49-4aef-842b-b570c6ac0dc7" />
+
 
 ---
+
+
+
 
 **📓 Notebook 3: Geographic Analysis (`03_geographic_analysis.ipynb`)**
 ```python
@@ -169,8 +183,19 @@ def calculate_climate_risk_score(row):
     return 0.6 * temp_score + 0.4 * variability_score
 ```
 
-**📸 Expected Screenshot: Geographic Analysis**
-![Add screenshot showing: Country ranking table, regional comparison charts, and risk assessment results]
+**📸 Geographic Analysis**
+
+
+<img width="621" height="385" alt="Image" src="https://github.com/user-attachments/assets/b9a5b403-b034-4cc9-b00d-995524afbe4d" />
+
+<img width="467" height="420" alt="Image" src="https://github.com/user-attachments/assets/51affb76-7dc1-46e7-8ce0-b1ff75104c70" />
+
+<img width="866" height="443" alt="Image" src="https://github.com/user-attachments/assets/5d5466b2-1b62-4f85-a2b6-3223ff3afba5" />
+
+<img width="848" height="365" alt="Image" src="https://github.com/user-attachments/assets/f1eaba65-6b5d-4303-9e3e-f14f04aa9a3a" />
+
+<img width="848" height="365" alt="Image" src="https://github.com/user-attachments/assets/f1eaba65-6b5d-4303-9e3e-f14f04aa9a3a" />
+
 
 ---
 
@@ -218,8 +243,12 @@ for name, model in models.items():
     print(f"{name} R² Score: {r2:.4f}")
 ```
 
-**📸 Expected Screenshot: Machine Learning Results**
-![Add screenshot showing: Model performance comparison, clustering visualization, and feature importance charts]
+**📸 Machine Learning Results**
+
+<img width="849" height="355" alt="Image" src="https://github.com/user-attachments/assets/f4a2b282-835e-4e71-9e47-1a201f79869f" />
+
+<img width="594" height="380" alt="Image" src="https://github.com/user-attachments/assets/50b5b6e3-c3a2-4a0b-97a7-234d92ba35ce" />
+
 
 ---
 
@@ -251,8 +280,11 @@ measures_df = pd.DataFrame(measures_data)
 measures_df.to_csv('data/powerbi/dax_measures_reference.csv', index=False)
 ```
 
-**📸 Expected Screenshot: Power BI Data Preparation**
-![Add screenshot showing: Exported CSV files, data structure summary, and validation results]
+**📸 Power BI Data Preparation**
+
+<img width="866" height="245" alt="Image" src="https://github.com/user-attachments/assets/4a780e58-bfc6-4b5d-ae5c-ee1b26310065" />
+
+<img width="867" height="215" alt="Image" src="https://github.com/user-attachments/assets/d9477f4c-6f47-4489-ad52-17116dbde574" />
 
 #### **Step 3: Power BI Dashboard Implementation**
 
@@ -318,8 +350,9 @@ DIVIDE(
 - **Rankings Table**: Top countries by temperature change
 - **Seasonal Analysis**: Monthly/seasonal patterns
 
-**📸 Expected Screenshot: Executive Dashboard**
-![Add screenshot showing: Complete executive dashboard with KPI cards, trend chart, map, and table]
+**📸 Executive Dashboard**
+
+![Image](https://github.com/user-attachments/assets/bc52915a-1837-4a55-b61d-13c29fea027d)
 
 **📊 Page 2: Regional Analysis**
 - **Regional Comparison**: Bar chart of temperature changes by region
@@ -327,8 +360,9 @@ DIVIDE(
 - **Risk Matrix**: Countries categorized by risk level and region
 - **Distribution**: Temperature change categories histogram
 
-**📸 Expected Screenshot: Regional Analysis**
-![Add screenshot showing: Regional comparison charts, scatter plot, and risk assessment matrix]
+**📸 Regional Analysis**
+
+![Image](https://github.com/user-attachments/assets/f6a3dd36-4e05-4709-9b18-11efa1e3c382)
 
 **📊 Page 3: Temporal Analysis**
 - **Year-over-Year**: Combined line and column chart
@@ -336,8 +370,8 @@ DIVIDE(
 - **Trend Analysis**: Statistical trend visualization with forecasting
 - **Anomaly Detection**: Extreme temperature events timeline
 
-**📸 Expected Screenshot: Temporal Dashboard**
-![Add screenshot showing: Time series analysis, seasonal heatmap, and trend forecasting]
+**📸 Temporal Dashboard**
+![Image](https://github.com/user-attachments/assets/e7b98cbd-1238-406f-8a83-b4f8015004f8)
 
 **📊 Page 4: Country Detail (Drill-Through)**
 - **Country Profile**: Selected country information card
@@ -346,8 +380,8 @@ DIVIDE(
 - **Peer Comparison**: Similar countries comparison
 - **Risk Assessment**: Country-specific risk metrics
 
-**📸 Expected Screenshot: Drill-Through Page**
-![Add screenshot showing: Country-specific detailed analysis page with multiple visuals]
+**📸 Drill-Through Page**
+![Image](https://github.com/user-attachments/assets/da48d84e-0945-4d18-9745-b712f6e09ae3)
 
 #### **Advanced Power BI Features**
 
@@ -358,88 +392,10 @@ DIVIDE(
 - **Drill-Through**: Right-click any country → detailed analysis
 - **Custom Tooltips**: Enhanced hover information
 
-**📱 Mobile Optimization:**
-- **Mobile Layout**: Portrait orientation for phones/tablets
-- **Touch-Friendly**: Larger buttons and simplified interactions
-- **Responsive Design**: Adapts to different screen sizes
 
-**📸 Expected Screenshot: Mobile Layout**
-![Add screenshot showing: Mobile-optimized dashboard layout]
 
-## 🖼️ Screenshots & Visual Guide
-
-### 📓 **Jupyter Notebooks Screenshots**
-
-#### **Notebook 1: Data Exploration**
-**📸 Add Screenshot Here: `screenshots/01_data_overview.png`**
-*Caption: Dataset overview showing 22,814 records across 61 African countries with data quality assessment*
-
-**📸 Add Screenshot Here: `screenshots/01_country_distribution.png`**
-*Caption: Geographic coverage and record distribution by country*
-
-#### **Notebook 2: Temporal Analysis**
-**📸 Add Screenshot Here: `screenshots/02_temperature_trends.png`**
-*Caption: Annual temperature trends with statistical significance testing (p < 0.001)*
-
-**📸 Add Screenshot Here: `screenshots/02_seasonal_patterns.png`**
-*Caption: Seasonal temperature variations showing strongest warming in June-August*
-
-#### **Notebook 3: Geographic Analysis**
-**📸 Add Screenshot Here: `screenshots/03_country_rankings.png`**
-*Caption: Top 20 countries by temperature change with regional classifications*
-
-**📸 Add Screenshot Here: `screenshots/03_clustering_results.png`**
-*Caption: K-means clustering visualization showing 4 distinct country patterns*
-
-#### **Notebook 4: Machine Learning Models**
-**📸 Add Screenshot Here: `screenshots/04_model_performance.png`**
-*Caption: Model comparison showing Random Forest (R² = 0.847) vs Linear Regression (R² = 0.891)*
-
-**📸 Add Screenshot Here: `screenshots/04_feature_importance.png`**
-*Caption: Feature importance analysis for temperature prediction models*
-
-#### **Notebook 5: Power BI Preparation**
-**📸 Add Screenshot Here: `screenshots/05_data_export.png`**
-*Caption: Exported datasets for Power BI with data validation summary*
 
 ---
-
-### 📊 **Power BI Dashboard Screenshots**
-
-#### **Executive Overview Dashboard**
-**📸 Add Screenshot Here: `screenshots/powerbi_executive_overview.png`**
-*Caption: Main dashboard with KPI cards showing +1.115°C average warming, 61 countries analyzed, and 15 high-risk nations*
-
-**Key Elements Visible:**
-- 4 KPI cards with temperature metrics
-- Regional temperature trend line chart
-- Interactive geographic map with country-level data
-- Top countries ranking table
-- Seasonal analysis column chart
-
-#### **Regional Analysis Dashboard**
-**📸 Add Screenshot Here: `screenshots/powerbi_regional_analysis.png`**
-*Caption: Regional comparison showing North Africa leading with +1.45°C average temperature change*
-
-**Key Elements Visible:**
-- Regional comparison bar chart
-- Temperature vs. variability scatter plot
-- Risk assessment matrix by region
-- Temperature category distribution
-
-#### **Temporal Analysis Dashboard**
-**📸 Add Screenshot Here: `screenshots/powerbi_temporal_analysis.png`**
-*Caption: Time series analysis with year-over-year trends and seasonal heatmap*
-
-**Key Elements Visible:**
-- Combined line and column chart for trends
-- Monthly temperature heatmap for top countries
-- Statistical trend analysis with forecasting
-- Anomaly detection timeline
-
-#### **Country Drill-Through Page**
-**📸 Add Screenshot Here: `screenshots/powerbi_country_detail.png`**
-*Caption: Detailed country analysis page (example: Algeria) with temperature timeline and peer comparison*
 
 **Key Elements Visible:**
 - Country-specific temperature timeline
@@ -447,10 +403,6 @@ DIVIDE(
 - Country statistics cards
 - Regional peer comparison
 - Data coverage by year
-
-#### **Mobile Layout**
-**📸 Add Screenshot Here: `screenshots/powerbi_mobile_layout.png`**
-*Caption: Mobile-optimized dashboard layout for tablets and smartphones*
 
 ---
 
