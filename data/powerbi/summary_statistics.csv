@@ -1,0 +1,15 @@
+Metric,Value,Unit,Category,Description
+Total Countries,61,countries,Coverage,Total number of African countries analyzed
+Total Records,11407,records,Coverage,Total temperature measurement records
+Analysis Period,2010-2020,years,Coverage,Time period covered by the analysis
+Average Temperature Change,1.1154,°C,Temperature,Mean temperature change across all measurements
+Maximum Temperature Change,4.653,°C,Temperature,Highest temperature increase recorded
+Minimum Temperature Change,-2.765,°C,Temperature,Lowest temperature change recorded
+Temperature Variability,0.6929,°C,Temperature,Standard deviation of temperature changes
+North Africa Average Change,1.3723,°C,Regional,Average temperature change in North Africa
+Southern Africa Average Change,1.0454,°C,Regional,Average temperature change in Southern Africa
+West Africa Average Change,1.1785,°C,Regional,Average temperature change in West Africa
+East Africa Average Change,1.0572,°C,Regional,Average temperature change in East Africa
+Central Africa Average Change,0.9756,°C,Regional,Average temperature change in Central Africa
+High Risk Countries,14,countries,Risk,Countries classified as high or very high risk
+Average Risk Score,0.4613,score,Risk,Mean climate risk score across all countries

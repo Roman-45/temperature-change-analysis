@@ -1,0 +1,19 @@
+Table,Column,Data_Type,Description,Usage
+temperature_fact_table,Record_ID,Integer,Unique identifier for each temperature record,Fact table - use for filtering and aggregation
+temperature_fact_table,Area,Text,Country or territory name,Fact table - use for filtering and aggregation
+temperature_fact_table,Region,Text,"African regional classification (North, West, East, Central, Southern)",Fact table - use for filtering and aggregation
+temperature_fact_table,Year,Integer,Year of measurement (2010-2020),Fact table - use for filtering and aggregation
+temperature_fact_table,Months,Text,"Time period (monthly, seasonal, or annual)",Fact table - use for filtering and aggregation
+temperature_fact_table,Season,Text,Seasonal classification with hemisphere context,Fact table - use for filtering and aggregation
+temperature_fact_table,Value,Decimal,Temperature change in degrees Celsius,Fact table - use for filtering and aggregation
+temperature_fact_table,Temperature_Category,Text,Categorical classification of temperature change,Fact table - use for filtering and aggregation
+temperature_fact_table,Decade,Text,Decade grouping (2010-2014 or 2015-2020),Fact table - use for filtering and aggregation
+temperature_fact_table,Year_Category,Text,Analysis period classification,Fact table - use for filtering and aggregation
+temperature_fact_table,Data_Quality,Text,Data quality indicator (Measured/Estimated),Fact table - use for filtering and aggregation
+country_dimension,Country,Text,Country name (primary key),Dimension table - use for grouping and analysis
+country_dimension,Region,Text,Regional classification,Dimension table - use for grouping and analysis
+country_dimension,Avg_Temperature_Change,Decimal,Average temperature change for country,Dimension table - use for grouping and analysis
+country_dimension,Climate_Risk_Score,Decimal,Composite climate risk score (0-1),Dimension table - use for grouping and analysis
+country_dimension,Risk_Level,Text,Risk category (Very Low to Very High),Dimension table - use for grouping and analysis
+country_dimension,Total_Records,Integer,Number of temperature records for country,Dimension table - use for grouping and analysis
+country_dimension,Temperature_Std,Decimal,Temperature variability (standard deviation),Dimension table - use for grouping and analysis

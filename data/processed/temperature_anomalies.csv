@@ -1,0 +1,588 @@
+Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Months Code,Months,Year Code,Year,Unit,Value,Flag,Flag Description
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7001,January,2012,2012,°c,-1.153,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7001,January,2015,2015,°c,-0.536,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7001,January,2017,2017,°c,-1.731,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7001,January,2019,2019,°c,-0.739,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7002,February,2010,2010,°c,3.988,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7002,February,2011,2011,°c,-0.721,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7002,February,2012,2012,°c,-2.765,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7002,February,2013,2013,°c,-0.908,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7002,February,2015,2015,°c,-0.564,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7002,February,2018,2018,°c,-0.423,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7002,February,2019,2019,°c,-1.042,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7003,March,2010,2010,°c,3.369,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7003,March,2013,2013,°c,2.865,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7003,March,2015,2015,°c,-0.326,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7004,April,2010,2010,°c,3.76,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7004,April,2014,2014,°c,2.81,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7004,April,2015,2015,°c,3.067,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7004,April,2016,2016,°c,3.575,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7004,April,2020,2020,°c,2.958,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7005,May,2015,2015,°c,3.09,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7005,May,2017,2017,°c,3.943,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7005,May,2020,2020,°c,2.913,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7006,June,2012,2012,°c,3.107,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7007,July,2018,2018,°c,3.331,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7009,September,2014,2014,°c,2.871,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7010,October,2012,2012,°c,2.674,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7010,October,2013,2013,°c,3.836,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7010,October,2015,2015,°c,2.681,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7010,October,2016,2016,°c,3.255,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7011,November,2012,2012,°c,2.942,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7012,December,2010,2010,°c,2.643,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7016,Dec–Jan–Feb,2010,2010,°c,3.078,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7016,Dec–Jan–Feb,2012,2012,°c,-1.201,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7016,Dec–Jan–Feb,2015,2015,°c,-0.405,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7017,Mar–Apr–May,2010,2010,°c,2.737,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7017,Mar–Apr–May,2017,2017,°c,2.663,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7017,Mar–Apr–May,2020,2020,°c,2.531,E,Estimated value
+ET,Temperature change on land,12,Algeria,7271,Temperature change,7019,Sep–Oct–Nov,2014,2014,°c,2.544,E,Estimated value
+ET,Temperature change on land,24,Angola,7271,Temperature change,7002,February,2012,2012,°c,-0.61,E,Estimated value
+ET,Temperature change on land,24,Angola,7271,Temperature change,7003,March,2017,2017,°c,-0.623,E,Estimated value
+ET,Temperature change on land,24,Angola,7271,Temperature change,7005,May,2012,2012,°c,-0.335,E,Estimated value
+ET,Temperature change on land,24,Angola,7271,Temperature change,7005,May,2020,2020,°c,-0.702,E,Estimated value
+ET,Temperature change on land,24,Angola,7271,Temperature change,7010,October,2011,2011,°c,-0.304,E,Estimated value
+ET,Temperature change on land,24,Angola,7271,Temperature change,7017,Mar–Apr–May,2020,2020,°c,-0.357,E,Estimated value
+ET,Temperature change on land,654,"Ascension, Saint Helena and Tristan da Cunha",7271,Temperature change,7002,February,2019,2019,°c,2.64,E,Estimated value
+ET,Temperature change on land,654,"Ascension, Saint Helena and Tristan da Cunha",7271,Temperature change,7012,December,2014,2014,°c,2.545,E,Estimated value
+ET,Temperature change on land,654,"Ascension, Saint Helena and Tristan da Cunha",7271,Temperature change,7012,December,2015,2015,°c,2.611,E,Estimated value
+ET,Temperature change on land,204,Benin,7271,Temperature change,7012,December,2015,2015,°c,-0.467,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7001,January,2011,2011,°c,-1.321,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7001,January,2017,2017,°c,-1.608,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7002,February,2011,2011,°c,-0.417,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7002,February,2014,2014,°c,-0.744,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7002,February,2015,2015,°c,2.621,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7002,February,2016,2016,°c,2.701,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7002,February,2017,2017,°c,-0.806,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7002,February,2018,2018,°c,-0.956,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7003,March,2014,2014,°c,-0.61,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7003,March,2015,2015,°c,2.62,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7003,March,2017,2017,°c,-1.128,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7003,March,2019,2019,°c,2.928,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7003,March,2020,2020,°c,-0.307,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7004,April,2014,2014,°c,-1.15,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7004,April,2017,2017,°c,-0.657,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7005,May,2010,2010,°c,2.598,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7007,July,2011,2011,°c,-0.354,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7008,August,2015,2015,°c,2.986,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7008,August,2018,2018,°c,3.509,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7009,September,2018,2018,°c,2.614,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7010,October,2011,2011,°c,-0.354,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7010,October,2015,2015,°c,3.089,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7010,October,2016,2016,°c,2.892,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7010,October,2019,2019,°c,2.715,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7011,November,2019,2019,°c,3.034,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7012,December,2013,2013,°c,-0.626,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7012,December,2015,2015,°c,3.303,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7012,December,2019,2019,°c,2.614,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7012,December,2020,2020,°c,-0.593,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7016,Dec–Jan–Feb,2011,2011,°c,-0.493,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7016,Dec–Jan–Feb,2014,2014,°c,-0.4,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7016,Dec–Jan–Feb,2016,2016,°c,2.746,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7016,Dec–Jan–Feb,2017,2017,°c,-0.591,E,Estimated value
+ET,Temperature change on land,72,Botswana,7271,Temperature change,7017,Mar–Apr–May,2017,2017,°c,-0.368,E,Estimated value
+ET,Temperature change on land,854,Burkina Faso,7271,Temperature change,7001,January,2012,2012,°c,-0.549,E,Estimated value
+ET,Temperature change on land,854,Burkina Faso,7271,Temperature change,7001,January,2015,2015,°c,-0.645,E,Estimated value
+ET,Temperature change on land,854,Burkina Faso,7271,Temperature change,7002,February,2010,2010,°c,3.046,E,Estimated value
+ET,Temperature change on land,854,Burkina Faso,7271,Temperature change,7003,March,2011,2011,°c,2.515,E,Estimated value
+ET,Temperature change on land,854,Burkina Faso,7271,Temperature change,7003,March,2013,2013,°c,2.533,E,Estimated value
+ET,Temperature change on land,854,Burkina Faso,7271,Temperature change,7012,December,2011,2011,°c,-0.535,E,Estimated value
+ET,Temperature change on land,854,Burkina Faso,7271,Temperature change,7012,December,2015,2015,°c,-0.963,E,Estimated value
+ET,Temperature change on land,132,Cabo Verde,7271,Temperature change,7001,January,2016,2016,°c,3.184,E,Estimated value
+ET,Temperature change on land,132,Cabo Verde,7271,Temperature change,7002,February,2015,2015,°c,-0.326,E,Estimated value
+ET,Temperature change on land,132,Cabo Verde,7271,Temperature change,7005,May,2017,2017,°c,2.747,E,Estimated value
+ET,Temperature change on land,132,Cabo Verde,7271,Temperature change,7006,June,2017,2017,°c,2.949,E,Estimated value
+ET,Temperature change on land,132,Cabo Verde,7271,Temperature change,7007,July,2017,2017,°c,2.521,E,Estimated value
+ET,Temperature change on land,132,Cabo Verde,7271,Temperature change,7008,August,2017,2017,°c,2.575,E,Estimated value
+ET,Temperature change on land,132,Cabo Verde,7271,Temperature change,7018,Jun–Jul–Aug,2017,2017,°c,2.682,E,Estimated value
+ET,Temperature change on land,120,Cameroon,7271,Temperature change,7001,January,2011,2011,°c,-0.296,E,Estimated value
+ET,Temperature change on land,140,Central African Republic,7271,Temperature change,7001,January,2011,2011,°c,-0.404,E,Estimated value
+ET,Temperature change on land,140,Central African Republic,7271,Temperature change,7001,January,2015,2015,°c,-0.709,E,Estimated value
+ET,Temperature change on land,140,Central African Republic,7271,Temperature change,7001,January,2018,2018,°c,-0.664,E,Estimated value
+ET,Temperature change on land,140,Central African Republic,7271,Temperature change,7001,January,2020,2020,°c,-0.319,E,Estimated value
+ET,Temperature change on land,140,Central African Republic,7271,Temperature change,7004,April,2010,2010,°c,2.527,E,Estimated value
+ET,Temperature change on land,140,Central African Republic,7271,Temperature change,7010,October,2012,2012,°c,-0.519,E,Estimated value
+ET,Temperature change on land,140,Central African Republic,7271,Temperature change,7010,October,2019,2019,°c,-0.341,E,Estimated value
+ET,Temperature change on land,140,Central African Republic,7271,Temperature change,7012,December,2011,2011,°c,-1.692,E,Estimated value
+ET,Temperature change on land,140,Central African Republic,7271,Temperature change,7012,December,2015,2015,°c,-0.717,E,Estimated value
+ET,Temperature change on land,140,Central African Republic,7271,Temperature change,7016,Dec–Jan–Feb,2012,2012,°c,-0.463,E,Estimated value
+ET,Temperature change on land,148,Chad,7271,Temperature change,7001,January,2015,2015,°c,-1.495,E,Estimated value
+ET,Temperature change on land,148,Chad,7271,Temperature change,7001,January,2016,2016,°c,-0.879,E,Estimated value
+ET,Temperature change on land,148,Chad,7271,Temperature change,7001,January,2018,2018,°c,-1.258,E,Estimated value
+ET,Temperature change on land,148,Chad,7271,Temperature change,7001,January,2020,2020,°c,-0.768,E,Estimated value
+ET,Temperature change on land,148,Chad,7271,Temperature change,7002,February,2010,2010,°c,3.12,E,Estimated value
+ET,Temperature change on land,148,Chad,7271,Temperature change,7002,February,2011,2011,°c,2.522,E,Estimated value
+ET,Temperature change on land,148,Chad,7271,Temperature change,7002,February,2012,2012,°c,2.677,E,Estimated value
+ET,Temperature change on land,148,Chad,7271,Temperature change,7002,February,2017,2017,°c,-0.307,E,Estimated value
+ET,Temperature change on land,148,Chad,7271,Temperature change,7002,February,2018,2018,°c,2.976,E,Estimated value
+ET,Temperature change on land,148,Chad,7271,Temperature change,7002,February,2020,2020,°c,-0.801,E,Estimated value
+ET,Temperature change on land,148,Chad,7271,Temperature change,7003,March,2016,2016,°c,3.433,E,Estimated value
+ET,Temperature change on land,148,Chad,7271,Temperature change,7004,April,2010,2010,°c,2.75,E,Estimated value
+ET,Temperature change on land,148,Chad,7271,Temperature change,7007,July,2012,2012,°c,-0.524,E,Estimated value
+ET,Temperature change on land,148,Chad,7271,Temperature change,7008,August,2012,2012,°c,-0.401,E,Estimated value
+ET,Temperature change on land,148,Chad,7271,Temperature change,7011,November,2016,2016,°c,2.507,E,Estimated value
+ET,Temperature change on land,148,Chad,7271,Temperature change,7012,December,2011,2011,°c,-0.537,E,Estimated value
+ET,Temperature change on land,148,Chad,7271,Temperature change,7012,December,2015,2015,°c,-1.924,E,Estimated value
+ET,Temperature change on land,148,Chad,7271,Temperature change,7016,Dec–Jan–Feb,2016,2016,°c,-0.969,E,Estimated value
+ET,Temperature change on land,148,Chad,7271,Temperature change,7016,Dec–Jan–Feb,2020,2020,°c,-0.425,E,Estimated value
+ET,Temperature change on land,148,Chad,7271,Temperature change,7018,Jun–Jul–Aug,2012,2012,°c,-0.278,E,Estimated value
+ET,Temperature change on land,262,Djibouti,7271,Temperature change,7003,March,2015,2015,°c,2.724,E,Estimated value
+ET,Temperature change on land,262,Djibouti,7271,Temperature change,7003,March,2016,2016,°c,4.227,E,Estimated value
+ET,Temperature change on land,262,Djibouti,7271,Temperature change,7004,April,2011,2011,°c,2.933,E,Estimated value
+ET,Temperature change on land,262,Djibouti,7271,Temperature change,7004,April,2017,2017,°c,2.688,E,Estimated value
+ET,Temperature change on land,262,Djibouti,7271,Temperature change,7004,April,2019,2019,°c,2.787,E,Estimated value
+ET,Temperature change on land,262,Djibouti,7271,Temperature change,7007,July,2017,2017,°c,2.961,E,Estimated value
+ET,Temperature change on land,262,Djibouti,7271,Temperature change,7008,August,2015,2015,°c,2.64,E,Estimated value
+ET,Temperature change on land,262,Djibouti,7271,Temperature change,7009,September,2015,2015,°c,2.56,E,Estimated value
+ET,Temperature change on land,262,Djibouti,7271,Temperature change,7010,October,2015,2015,°c,2.513,E,Estimated value
+ET,Temperature change on land,262,Djibouti,7271,Temperature change,7011,November,2018,2018,°c,2.789,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7001,January,2010,2010,°c,3.104,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7001,January,2012,2012,°c,-0.973,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7001,January,2020,2020,°c,-0.564,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7002,February,2010,2010,°c,3.332,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7002,February,2017,2017,°c,-0.808,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7002,February,2018,2018,°c,3.368,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7002,February,2020,2020,°c,-0.375,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7003,March,2010,2010,°c,2.872,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7003,March,2012,2012,°c,-1.039,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7003,March,2013,2013,°c,2.635,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7003,March,2018,2018,°c,4.203,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7003,March,2019,2019,°c,-0.49,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7004,April,2015,2015,°c,-0.89,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7004,April,2020,2020,°c,-0.277,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7005,May,2018,2018,°c,2.763,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7008,August,2010,2010,°c,2.57,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7008,August,2015,2015,°c,3.459,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7009,September,2015,2015,°c,3.436,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7009,September,2020,2020,°c,3.479,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7010,October,2010,2010,°c,3.072,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7010,October,2013,2013,°c,-1.067,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7010,October,2017,2017,°c,-0.399,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7010,October,2020,2020,°c,2.814,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7011,November,2010,2010,°c,2.88,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7011,November,2011,2011,°c,-1.733,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7012,December,2016,2016,°c,-0.746,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7016,Dec–Jan–Feb,2010,2010,°c,2.673,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7016,Dec–Jan–Feb,2017,2017,°c,-0.424,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7017,Mar–Apr–May,2018,2018,°c,3.033,E,Estimated value
+ET,Temperature change on land,818,Egypt,7271,Temperature change,7019,Sep–Oct–Nov,2010,2010,°c,2.769,E,Estimated value
+ET,Temperature change on land,232,Eritrea,7271,Temperature change,7001,January,2017,2017,°c,2.511,E,Estimated value
+ET,Temperature change on land,232,Eritrea,7271,Temperature change,7001,January,2018,2018,°c,-0.511,E,Estimated value
+ET,Temperature change on land,232,Eritrea,7271,Temperature change,7001,January,2020,2020,°c,-1.001,E,Estimated value
+ET,Temperature change on land,232,Eritrea,7271,Temperature change,7002,February,2012,2012,°c,3.158,E,Estimated value
+ET,Temperature change on land,232,Eritrea,7271,Temperature change,7002,February,2018,2018,°c,3.177,E,Estimated value
+ET,Temperature change on land,232,Eritrea,7271,Temperature change,7003,March,2011,2011,°c,-0.445,E,Estimated value
+ET,Temperature change on land,232,Eritrea,7271,Temperature change,7003,March,2015,2015,°c,3.311,E,Estimated value
+ET,Temperature change on land,232,Eritrea,7271,Temperature change,7003,March,2016,2016,°c,3.644,E,Estimated value
+ET,Temperature change on land,232,Eritrea,7271,Temperature change,7003,March,2019,2019,°c,-0.598,E,Estimated value
+ET,Temperature change on land,232,Eritrea,7271,Temperature change,7007,July,2015,2015,°c,3.136,E,Estimated value
+ET,Temperature change on land,232,Eritrea,7271,Temperature change,7008,August,2015,2015,°c,2.837,E,Estimated value
+ET,Temperature change on land,232,Eritrea,7271,Temperature change,7008,August,2019,2019,°c,-0.279,E,Estimated value
+ET,Temperature change on land,232,Eritrea,7271,Temperature change,7010,October,2010,2010,°c,2.733,E,Estimated value
+ET,Temperature change on land,232,Eritrea,7271,Temperature change,7010,October,2011,2011,°c,3.524,E,Estimated value
+ET,Temperature change on land,232,Eritrea,7271,Temperature change,7010,October,2019,2019,°c,-0.361,E,Estimated value
+ET,Temperature change on land,232,Eritrea,7271,Temperature change,7011,November,2011,2011,°c,3.037,E,Estimated value
+ET,Temperature change on land,232,Eritrea,7271,Temperature change,7012,December,2011,2011,°c,3.227,E,Estimated value
+ET,Temperature change on land,232,Eritrea,7271,Temperature change,7016,Dec–Jan–Feb,2012,2012,°c,2.859,E,Estimated value
+ET,Temperature change on land,748,Eswatini,7271,Temperature change,7004,April,2012,2012,°c,-0.367,E,Estimated value
+ET,Temperature change on land,748,Eswatini,7271,Temperature change,7004,April,2013,2013,°c,-0.849,E,Estimated value
+ET,Temperature change on land,748,Eswatini,7271,Temperature change,7006,June,2011,2011,°c,-1.147,E,Estimated value
+ET,Temperature change on land,748,Eswatini,7271,Temperature change,7009,September,2018,2018,°c,3.148,E,Estimated value
+ET,Temperature change on land,748,Eswatini,7271,Temperature change,7010,October,2013,2013,°c,-0.35,E,Estimated value
+ET,Temperature change on land,748,Eswatini,7271,Temperature change,7010,October,2014,2014,°c,-0.532,E,Estimated value
+ET,Temperature change on land,748,Eswatini,7271,Temperature change,7010,October,2015,2015,°c,2.818,E,Estimated value
+ET,Temperature change on land,748,Eswatini,7271,Temperature change,7010,October,2018,2018,°c,-0.301,E,Estimated value
+ET,Temperature change on land,748,Eswatini,7271,Temperature change,7011,November,2014,2014,°c,-0.582,E,Estimated value
+ET,Temperature change on land,748,Eswatini,7271,Temperature change,7012,December,2013,2013,°c,-1.271,E,Estimated value
+ET,Temperature change on land,748,Eswatini,7271,Temperature change,7012,December,2015,2015,°c,2.952,E,Estimated value
+ET,Temperature change on land,748,Eswatini,7271,Temperature change,7012,December,2018,2018,°c,2.532,E,Estimated value
+ET,Temperature change on land,748,Eswatini,7271,Temperature change,7017,Mar–Apr–May,2013,2013,°c,-0.318,E,Estimated value
+ET,Temperature change on land,748,Eswatini,7271,Temperature change,7018,Jun–Jul–Aug,2011,2011,°c,-0.656,E,Estimated value
+ET,Temperature change on land,231,Ethiopia,7271,Temperature change,7003,March,2016,2016,°c,3.014,E,Estimated value
+ET,Temperature change on land,260,French Southern Territories,7271,Temperature change,7003,March,2010,2010,°c,-0.66,E,Estimated value
+ET,Temperature change on land,260,French Southern Territories,7271,Temperature change,7004,April,2010,2010,°c,-0.336,E,Estimated value
+ET,Temperature change on land,260,French Southern Territories,7271,Temperature change,7005,May,2014,2014,°c,-0.403,E,Estimated value
+ET,Temperature change on land,260,French Southern Territories,7271,Temperature change,7005,May,2016,2016,°c,-0.358,E,Estimated value
+ET,Temperature change on land,260,French Southern Territories,7271,Temperature change,7005,May,2018,2018,°c,-0.929,E,Estimated value
+ET,Temperature change on land,260,French Southern Territories,7271,Temperature change,7007,July,2011,2011,°c,-0.39,E,Estimated value
+ET,Temperature change on land,260,French Southern Territories,7271,Temperature change,7008,August,2014,2014,°c,-2.075,E,Estimated value
+ET,Temperature change on land,260,French Southern Territories,7271,Temperature change,7008,August,2019,2019,°c,-0.312,E,Estimated value
+ET,Temperature change on land,260,French Southern Territories,7271,Temperature change,7008,August,2020,2020,°c,-0.565,E,Estimated value
+ET,Temperature change on land,260,French Southern Territories,7271,Temperature change,7009,September,2010,2010,°c,-0.306,E,Estimated value
+ET,Temperature change on land,260,French Southern Territories,7271,Temperature change,7009,September,2014,2014,°c,-1.268,E,Estimated value
+ET,Temperature change on land,260,French Southern Territories,7271,Temperature change,7009,September,2019,2019,°c,-0.801,E,Estimated value
+ET,Temperature change on land,260,French Southern Territories,7271,Temperature change,7010,October,2013,2013,°c,-0.91,E,Estimated value
+ET,Temperature change on land,260,French Southern Territories,7271,Temperature change,7010,October,2014,2014,°c,-0.37,E,Estimated value
+ET,Temperature change on land,260,French Southern Territories,7271,Temperature change,7011,November,2013,2013,°c,-0.385,E,Estimated value
+ET,Temperature change on land,260,French Southern Territories,7271,Temperature change,7011,November,2014,2014,°c,-0.648,E,Estimated value
+ET,Temperature change on land,260,French Southern Territories,7271,Temperature change,7012,December,2012,2012,°c,-0.4,E,Estimated value
+ET,Temperature change on land,260,French Southern Territories,7271,Temperature change,7018,Jun–Jul–Aug,2014,2014,°c,-0.541,E,Estimated value
+ET,Temperature change on land,260,French Southern Territories,7271,Temperature change,7019,Sep–Oct–Nov,2013,2013,°c,-0.44,E,Estimated value
+ET,Temperature change on land,260,French Southern Territories,7271,Temperature change,7019,Sep–Oct–Nov,2014,2014,°c,-0.762,E,Estimated value
+ET,Temperature change on land,270,Gambia,7271,Temperature change,7001,January,2016,2016,°c,2.899,E,Estimated value
+ET,Temperature change on land,270,Gambia,7271,Temperature change,7002,February,2018,2018,°c,-0.294,E,Estimated value
+ET,Temperature change on land,270,Gambia,7271,Temperature change,7002,February,2020,2020,°c,3.396,E,Estimated value
+ET,Temperature change on land,270,Gambia,7271,Temperature change,7003,March,2020,2020,°c,2.54,E,Estimated value
+ET,Temperature change on land,270,Gambia,7271,Temperature change,7005,May,2018,2018,°c,-0.31,E,Estimated value
+ET,Temperature change on land,270,Gambia,7271,Temperature change,7012,December,2016,2016,°c,2.528,E,Estimated value
+ET,Temperature change on land,270,Gambia,7271,Temperature change,7012,December,2020,2020,°c,2.679,E,Estimated value
+ET,Temperature change on land,324,Guinea,7271,Temperature change,7012,December,2015,2015,°c,-0.319,E,Estimated value
+ET,Temperature change on land,624,Guinea-Bissau,7271,Temperature change,7002,February,2020,2020,°c,2.707,E,Estimated value
+ET,Temperature change on land,624,Guinea-Bissau,7271,Temperature change,7012,December,2020,2020,°c,2.708,E,Estimated value
+ET,Temperature change on land,404,Kenya,7271,Temperature change,7003,March,2018,2018,°c,-0.357,E,Estimated value
+ET,Temperature change on land,404,Kenya,7271,Temperature change,7004,April,2018,2018,°c,-0.813,E,Estimated value
+ET,Temperature change on land,404,Kenya,7271,Temperature change,7009,September,2017,2017,°c,2.915,E,Estimated value
+ET,Temperature change on land,404,Kenya,7271,Temperature change,7017,Mar–Apr–May,2018,2018,°c,-0.388,E,Estimated value
+ET,Temperature change on land,426,Lesotho,7271,Temperature change,7004,April,2016,2016,°c,2.805,E,Estimated value
+ET,Temperature change on land,426,Lesotho,7271,Temperature change,7005,May,2015,2015,°c,2.522,E,Estimated value
+ET,Temperature change on land,426,Lesotho,7271,Temperature change,7005,May,2019,2019,°c,2.755,E,Estimated value
+ET,Temperature change on land,426,Lesotho,7271,Temperature change,7007,July,2011,2011,°c,-1.129,E,Estimated value
+ET,Temperature change on land,426,Lesotho,7271,Temperature change,7007,July,2019,2019,°c,2.624,E,Estimated value
+ET,Temperature change on land,426,Lesotho,7271,Temperature change,7008,August,2015,2015,°c,2.872,E,Estimated value
+ET,Temperature change on land,426,Lesotho,7271,Temperature change,7009,September,2014,2014,°c,2.741,E,Estimated value
+ET,Temperature change on land,426,Lesotho,7271,Temperature change,7009,September,2017,2017,°c,2.772,E,Estimated value
+ET,Temperature change on land,426,Lesotho,7271,Temperature change,7010,October,2015,2015,°c,3.011,E,Estimated value
+ET,Temperature change on land,426,Lesotho,7271,Temperature change,7010,October,2020,2020,°c,2.589,E,Estimated value
+ET,Temperature change on land,426,Lesotho,7271,Temperature change,7012,December,2015,2015,°c,3.966,E,Estimated value
+ET,Temperature change on land,426,Lesotho,7271,Temperature change,7012,December,2016,2016,°c,2.559,E,Estimated value
+ET,Temperature change on land,426,Lesotho,7271,Temperature change,7016,Dec–Jan–Feb,2016,2016,°c,2.904,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7001,January,2012,2012,°c,-1.05,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7001,January,2015,2015,°c,-0.56,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7001,January,2017,2017,°c,-1.6,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7001,January,2019,2019,°c,-0.607,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7001,January,2020,2020,°c,-0.522,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7002,February,2010,2010,°c,3.78,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7002,February,2011,2011,°c,-0.37,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7002,February,2012,2012,°c,-2.177,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7002,February,2015,2015,°c,-0.519,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7002,February,2019,2019,°c,-1.497,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7003,March,2010,2010,°c,2.597,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7003,March,2012,2012,°c,-1.11,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7003,March,2013,2013,°c,3.523,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7003,March,2018,2018,°c,3.715,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7003,March,2019,2019,°c,-0.302,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7004,April,2016,2016,°c,3.717,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7004,April,2017,2017,°c,-1.11,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7004,April,2018,2018,°c,3.105,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7005,May,2013,2013,°c,3.078,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7006,June,2015,2015,°c,-0.676,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7007,July,2011,2011,°c,2.558,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7008,August,2014,2014,°c,2.661,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7009,September,2014,2014,°c,2.675,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7010,October,2012,2012,°c,2.572,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7010,October,2015,2015,°c,3.093,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7010,October,2016,2016,°c,3.255,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7010,October,2017,2017,°c,-0.373,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7011,November,2012,2012,°c,2.529,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7012,December,2011,2011,°c,-0.401,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7012,December,2015,2015,°c,-0.334,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7016,Dec–Jan–Feb,2010,2010,°c,2.536,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7016,Dec–Jan–Feb,2012,2012,°c,-1.209,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7016,Dec–Jan–Feb,2017,2017,°c,-0.358,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7016,Dec–Jan–Feb,2019,2019,°c,-0.589,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7017,Mar–Apr–May,2013,2013,°c,2.766,E,Estimated value
+ET,Temperature change on land,434,Libya,7271,Temperature change,7017,Mar–Apr–May,2018,2018,°c,3.034,E,Estimated value
+ET,Temperature change on land,454,Malawi,7271,Temperature change,7003,March,2016,2016,°c,2.939,E,Estimated value
+ET,Temperature change on land,454,Malawi,7271,Temperature change,7004,April,2010,2010,°c,3.758,E,Estimated value
+ET,Temperature change on land,454,Malawi,7271,Temperature change,7004,April,2012,2012,°c,-0.827,E,Estimated value
+ET,Temperature change on land,454,Malawi,7271,Temperature change,7008,August,2010,2010,°c,-0.823,E,Estimated value
+ET,Temperature change on land,454,Malawi,7271,Temperature change,7008,August,2012,2012,°c,2.538,E,Estimated value
+ET,Temperature change on land,454,Malawi,7271,Temperature change,7010,October,2013,2013,°c,-0.51,E,Estimated value
+ET,Temperature change on land,454,Malawi,7271,Temperature change,7010,October,2016,2016,°c,-1.029,E,Estimated value
+ET,Temperature change on land,454,Malawi,7271,Temperature change,7010,October,2018,2018,°c,-0.302,E,Estimated value
+ET,Temperature change on land,454,Malawi,7271,Temperature change,7011,November,2016,2016,°c,3.501,E,Estimated value
+ET,Temperature change on land,466,Mali,7271,Temperature change,7001,January,2012,2012,°c,-1.038,E,Estimated value
+ET,Temperature change on land,466,Mali,7271,Temperature change,7001,January,2015,2015,°c,-0.407,E,Estimated value
+ET,Temperature change on land,466,Mali,7271,Temperature change,7002,February,2010,2010,°c,3.889,E,Estimated value
+ET,Temperature change on land,466,Mali,7271,Temperature change,7002,February,2011,2011,°c,-0.553,E,Estimated value
+ET,Temperature change on land,466,Mali,7271,Temperature change,7002,February,2014,2014,°c,-0.341,E,Estimated value
+ET,Temperature change on land,466,Mali,7271,Temperature change,7003,March,2011,2011,°c,2.773,E,Estimated value
+ET,Temperature change on land,466,Mali,7271,Temperature change,7003,March,2013,2013,°c,2.845,E,Estimated value
+ET,Temperature change on land,466,Mali,7271,Temperature change,7003,March,2017,2017,°c,2.595,E,Estimated value
+ET,Temperature change on land,466,Mali,7271,Temperature change,7004,April,2010,2010,°c,2.95,E,Estimated value
+ET,Temperature change on land,466,Mali,7271,Temperature change,7012,December,2011,2011,°c,-0.569,E,Estimated value
+ET,Temperature change on land,466,Mali,7271,Temperature change,7012,December,2015,2015,°c,-0.57,E,Estimated value
+ET,Temperature change on land,466,Mali,7271,Temperature change,7012,December,2020,2020,°c,2.847,E,Estimated value
+ET,Temperature change on land,466,Mali,7271,Temperature change,7016,Dec–Jan–Feb,2010,2010,°c,2.596,E,Estimated value
+ET,Temperature change on land,466,Mali,7271,Temperature change,7016,Dec–Jan–Feb,2012,2012,°c,-0.616,E,Estimated value
+ET,Temperature change on land,478,Mauritania,7271,Temperature change,7001,January,2016,2016,°c,3.443,E,Estimated value
+ET,Temperature change on land,478,Mauritania,7271,Temperature change,7002,February,2010,2010,°c,3.306,E,Estimated value
+ET,Temperature change on land,478,Mauritania,7271,Temperature change,7002,February,2011,2011,°c,-0.91,E,Estimated value
+ET,Temperature change on land,478,Mauritania,7271,Temperature change,7002,February,2012,2012,°c,-1.308,E,Estimated value
+ET,Temperature change on land,478,Mauritania,7271,Temperature change,7002,February,2014,2014,°c,-0.645,E,Estimated value
+ET,Temperature change on land,478,Mauritania,7271,Temperature change,7002,February,2018,2018,°c,-0.368,E,Estimated value
+ET,Temperature change on land,478,Mauritania,7271,Temperature change,7002,February,2020,2020,°c,3.026,E,Estimated value
+ET,Temperature change on land,478,Mauritania,7271,Temperature change,7003,March,2010,2010,°c,3.126,E,Estimated value
+ET,Temperature change on land,478,Mauritania,7271,Temperature change,7003,March,2013,2013,°c,2.642,E,Estimated value
+ET,Temperature change on land,478,Mauritania,7271,Temperature change,7003,March,2017,2017,°c,2.623,E,Estimated value
+ET,Temperature change on land,478,Mauritania,7271,Temperature change,7004,April,2010,2010,°c,3.574,E,Estimated value
+ET,Temperature change on land,478,Mauritania,7271,Temperature change,7004,April,2011,2011,°c,2.529,E,Estimated value
+ET,Temperature change on land,478,Mauritania,7271,Temperature change,7004,April,2014,2014,°c,2.582,E,Estimated value
+ET,Temperature change on land,478,Mauritania,7271,Temperature change,7004,April,2015,2015,°c,3.167,E,Estimated value
+ET,Temperature change on land,478,Mauritania,7271,Temperature change,7004,April,2016,2016,°c,2.788,E,Estimated value
+ET,Temperature change on land,478,Mauritania,7271,Temperature change,7004,April,2017,2017,°c,3.027,E,Estimated value
+ET,Temperature change on land,478,Mauritania,7271,Temperature change,7011,November,2012,2012,°c,2.568,E,Estimated value
+ET,Temperature change on land,478,Mauritania,7271,Temperature change,7012,December,2010,2010,°c,2.803,E,Estimated value
+ET,Temperature change on land,478,Mauritania,7271,Temperature change,7016,Dec–Jan–Feb,2010,2010,°c,2.964,E,Estimated value
+ET,Temperature change on land,478,Mauritania,7271,Temperature change,7016,Dec–Jan–Feb,2012,2012,°c,-0.292,E,Estimated value
+ET,Temperature change on land,478,Mauritania,7271,Temperature change,7017,Mar–Apr–May,2010,2010,°c,2.834,E,Estimated value
+ET,Temperature change on land,478,Mauritania,7271,Temperature change,7017,Mar–Apr–May,2017,2017,°c,2.557,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7001,January,2016,2016,°c,3.073,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7001,January,2017,2017,°c,-0.761,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7002,February,2010,2010,°c,2.975,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7002,February,2012,2012,°c,-2.484,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7002,February,2015,2015,°c,-1.024,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7002,February,2018,2018,°c,-1.178,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7002,February,2020,2020,°c,2.996,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7004,April,2010,2010,°c,3.799,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7004,April,2011,2011,°c,3.296,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7004,April,2013,2013,°c,2.515,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7004,April,2014,2014,°c,3.286,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7004,April,2015,2015,°c,2.651,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7004,April,2017,2017,°c,3.888,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7005,May,2012,2012,°c,3.186,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7005,May,2014,2014,°c,3.31,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7005,May,2015,2015,°c,3.67,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7005,May,2017,2017,°c,3.734,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7005,May,2018,2018,°c,-0.442,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7005,May,2019,2019,°c,3.4,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7005,May,2020,2020,°c,3.114,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7006,June,2011,2011,°c,3.262,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7006,June,2012,2012,°c,3.979,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7006,June,2016,2016,°c,2.535,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7006,June,2017,2017,°c,4.414,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7007,July,2010,2010,°c,2.517,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7007,July,2020,2020,°c,2.984,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7008,August,2012,2012,°c,2.611,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7009,September,2020,2020,°c,2.506,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7010,October,2013,2013,°c,2.942,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7010,October,2014,2014,°c,3.397,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7010,October,2016,2016,°c,2.533,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7010,October,2017,2017,°c,2.977,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7012,December,2010,2010,°c,3.541,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7012,December,2015,2015,°c,2.722,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7016,Dec–Jan–Feb,2010,2010,°c,2.781,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7016,Dec–Jan–Feb,2012,2012,°c,-0.587,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7017,Mar–Apr–May,2017,2017,°c,3.036,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7018,Jun–Jul–Aug,2012,2012,°c,2.97,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7018,Jun–Jul–Aug,2017,2017,°c,2.811,E,Estimated value
+ET,Temperature change on land,504,Morocco,7271,Temperature change,7018,Jun–Jul–Aug,2020,2020,°c,2.517,E,Estimated value
+ET,Temperature change on land,508,Mozambique,7271,Temperature change,7001,January,2018,2018,°c,-0.36,E,Estimated value
+ET,Temperature change on land,508,Mozambique,7271,Temperature change,7003,March,2016,2016,°c,2.529,E,Estimated value
+ET,Temperature change on land,508,Mozambique,7271,Temperature change,7004,April,2012,2012,°c,-0.545,E,Estimated value
+ET,Temperature change on land,508,Mozambique,7271,Temperature change,7008,August,2010,2010,°c,-0.386,E,Estimated value
+ET,Temperature change on land,508,Mozambique,7271,Temperature change,7010,October,2013,2013,°c,-0.647,E,Estimated value
+ET,Temperature change on land,508,Mozambique,7271,Temperature change,7010,October,2018,2018,°c,-0.333,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7001,January,2010,2010,°c,-0.583,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7001,January,2011,2011,°c,-1.634,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7001,January,2017,2017,°c,-0.45,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7002,February,2011,2011,°c,-0.949,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7002,February,2012,2012,°c,-1.673,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7002,February,2017,2017,°c,-0.668,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7003,March,2011,2011,°c,-1.485,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7003,March,2017,2017,°c,-0.577,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7003,March,2019,2019,°c,2.625,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7004,April,2011,2011,°c,-0.806,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7004,April,2014,2014,°c,-0.423,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7005,May,2019,2019,°c,3.704,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7006,June,2011,2011,°c,-0.33,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7006,June,2012,2012,°c,-0.63,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7007,July,2011,2011,°c,-0.934,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7007,July,2012,2012,°c,-1.078,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7007,July,2020,2020,°c,-0.436,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7008,August,2013,2013,°c,-0.655,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7008,August,2020,2020,°c,-0.8,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7009,September,2012,2012,°c,-0.97,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7009,September,2013,2013,°c,-0.387,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7010,October,2017,2017,°c,-0.597,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7011,November,2011,2011,°c,-0.679,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7011,November,2014,2014,°c,-1.52,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7011,November,2019,2019,°c,2.549,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7012,December,2012,2012,°c,-0.566,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7012,December,2014,2014,°c,-0.282,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7012,December,2019,2019,°c,-0.487,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7016,Dec–Jan–Feb,2011,2011,°c,-0.907,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7016,Dec–Jan–Feb,2012,2012,°c,-0.675,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7017,Mar–Apr–May,2011,2011,°c,-0.85,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7017,Mar–Apr–May,2019,2019,°c,2.81,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7018,Jun–Jul–Aug,2011,2011,°c,-0.359,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7018,Jun–Jul–Aug,2012,2012,°c,-0.602,E,Estimated value
+ET,Temperature change on land,516,Namibia,7271,Temperature change,7020,Meteorological year,2011,2011,°c,-0.473,E,Estimated value
+ET,Temperature change on land,562,Niger,7271,Temperature change,7001,January,2012,2012,°c,-0.435,E,Estimated value
+ET,Temperature change on land,562,Niger,7271,Temperature change,7001,January,2015,2015,°c,-0.819,E,Estimated value
+ET,Temperature change on land,562,Niger,7271,Temperature change,7001,January,2018,2018,°c,-0.592,E,Estimated value
+ET,Temperature change on land,562,Niger,7271,Temperature change,7002,February,2010,2010,°c,3.568,E,Estimated value
+ET,Temperature change on land,562,Niger,7271,Temperature change,7002,February,2011,2011,°c,2.715,E,Estimated value
+ET,Temperature change on land,562,Niger,7271,Temperature change,7002,February,2019,2019,°c,-1.138,E,Estimated value
+ET,Temperature change on land,562,Niger,7271,Temperature change,7002,February,2020,2020,°c,-0.545,E,Estimated value
+ET,Temperature change on land,562,Niger,7271,Temperature change,7003,March,2011,2011,°c,2.881,E,Estimated value
+ET,Temperature change on land,562,Niger,7271,Temperature change,7003,March,2012,2012,°c,-0.783,E,Estimated value
+ET,Temperature change on land,562,Niger,7271,Temperature change,7003,March,2013,2013,°c,3.213,E,Estimated value
+ET,Temperature change on land,562,Niger,7271,Temperature change,7003,March,2016,2016,°c,2.991,E,Estimated value
+ET,Temperature change on land,562,Niger,7271,Temperature change,7004,April,2015,2015,°c,-1.509,E,Estimated value
+ET,Temperature change on land,562,Niger,7271,Temperature change,7004,April,2016,2016,°c,2.596,E,Estimated value
+ET,Temperature change on land,562,Niger,7271,Temperature change,7004,April,2020,2020,°c,2.939,E,Estimated value
+ET,Temperature change on land,562,Niger,7271,Temperature change,7011,November,2019,2019,°c,3.356,E,Estimated value
+ET,Temperature change on land,562,Niger,7271,Temperature change,7012,December,2011,2011,°c,-0.97,E,Estimated value
+ET,Temperature change on land,562,Niger,7271,Temperature change,7012,December,2015,2015,°c,-2.478,E,Estimated value
+ET,Temperature change on land,562,Niger,7271,Temperature change,7012,December,2018,2018,°c,-0.791,E,Estimated value
+ET,Temperature change on land,562,Niger,7271,Temperature change,7012,December,2020,2020,°c,2.588,E,Estimated value
+ET,Temperature change on land,562,Niger,7271,Temperature change,7016,Dec–Jan–Feb,2016,2016,°c,-0.86,E,Estimated value
+ET,Temperature change on land,562,Niger,7271,Temperature change,7016,Dec–Jan–Feb,2019,2019,°c,-0.727,E,Estimated value
+ET,Temperature change on land,562,Niger,7271,Temperature change,7017,Mar–Apr–May,2016,2016,°c,2.571,E,Estimated value
+ET,Temperature change on land,566,Nigeria,7271,Temperature change,7002,February,2010,2010,°c,3.287,E,Estimated value
+ET,Temperature change on land,566,Nigeria,7271,Temperature change,7003,March,2016,2016,°c,2.741,E,Estimated value
+ET,Temperature change on land,566,Nigeria,7271,Temperature change,7004,April,2010,2010,°c,2.567,E,Estimated value
+ET,Temperature change on land,566,Nigeria,7271,Temperature change,7012,December,2011,2011,°c,-0.275,E,Estimated value
+ET,Temperature change on land,566,Nigeria,7271,Temperature change,7012,December,2015,2015,°c,-0.943,E,Estimated value
+ET,Temperature change on land,566,Nigeria,7271,Temperature change,7012,December,2020,2020,°c,2.577,E,Estimated value
+ET,Temperature change on land,686,Senegal,7271,Temperature change,7001,January,2016,2016,°c,2.854,E,Estimated value
+ET,Temperature change on land,686,Senegal,7271,Temperature change,7002,February,2010,2010,°c,2.566,E,Estimated value
+ET,Temperature change on land,686,Senegal,7271,Temperature change,7002,February,2018,2018,°c,-0.497,E,Estimated value
+ET,Temperature change on land,686,Senegal,7271,Temperature change,7002,February,2020,2020,°c,3.304,E,Estimated value
+ET,Temperature change on land,686,Senegal,7271,Temperature change,7003,March,2010,2010,°c,2.721,E,Estimated value
+ET,Temperature change on land,686,Senegal,7271,Temperature change,7012,December,2020,2020,°c,2.778,E,Estimated value
+ET,Temperature change on land,694,Sierra Leone,7271,Temperature change,7002,February,2016,2016,°c,-0.305,E,Estimated value
+ET,Temperature change on land,694,Sierra Leone,7271,Temperature change,7012,December,2015,2015,°c,-0.685,E,Estimated value
+ET,Temperature change on land,694,Sierra Leone,7271,Temperature change,7016,Dec–Jan–Feb,2016,2016,°c,-0.365,E,Estimated value
+ET,Temperature change on land,706,Somalia,7271,Temperature change,7003,March,2011,2011,°c,-0.364,E,Estimated value
+ET,Temperature change on land,706,Somalia,7271,Temperature change,7003,March,2016,2016,°c,3.376,E,Estimated value
+ET,Temperature change on land,706,Somalia,7271,Temperature change,7004,April,2019,2019,°c,3.07,E,Estimated value
+ET,Temperature change on land,706,Somalia,7271,Temperature change,7004,April,2020,2020,°c,2.541,E,Estimated value
+ET,Temperature change on land,706,Somalia,7271,Temperature change,7005,May,2018,2018,°c,-0.349,E,Estimated value
+ET,Temperature change on land,706,Somalia,7271,Temperature change,7005,May,2019,2019,°c,3.281,E,Estimated value
+ET,Temperature change on land,706,Somalia,7271,Temperature change,7008,August,2015,2015,°c,2.743,E,Estimated value
+ET,Temperature change on land,706,Somalia,7271,Temperature change,7012,December,2011,2011,°c,-0.318,E,Estimated value
+ET,Temperature change on land,710,South Africa,7271,Temperature change,7005,May,2019,2019,°c,2.94,E,Estimated value
+ET,Temperature change on land,710,South Africa,7271,Temperature change,7007,July,2011,2011,°c,-0.598,E,Estimated value
+ET,Temperature change on land,710,South Africa,7271,Temperature change,7009,September,2012,2012,°c,-0.355,E,Estimated value
+ET,Temperature change on land,710,South Africa,7271,Temperature change,7010,October,2015,2015,°c,3.151,E,Estimated value
+ET,Temperature change on land,710,South Africa,7271,Temperature change,7011,November,2011,2011,°c,-0.273,E,Estimated value
+ET,Temperature change on land,710,South Africa,7271,Temperature change,7012,December,2015,2015,°c,2.979,E,Estimated value
+ET,Temperature change on land,728,South Sudan,7271,Temperature change,7001,January,2020,2020,°c,-0.889,E,Estimated value
+ET,Temperature change on land,728,South Sudan,7271,Temperature change,7002,February,2011,2011,°c,2.652,E,Estimated value
+ET,Temperature change on land,728,South Sudan,7271,Temperature change,7002,February,2018,2018,°c,2.833,E,Estimated value
+ET,Temperature change on land,728,South Sudan,7271,Temperature change,7003,March,2016,2016,°c,2.931,E,Estimated value
+ET,Temperature change on land,728,South Sudan,7271,Temperature change,7004,April,2017,2017,°c,2.535,E,Estimated value
+ET,Temperature change on land,728,South Sudan,7271,Temperature change,7012,December,2014,2014,°c,-0.97,E,Estimated value
+ET,Temperature change on land,728,South Sudan,7271,Temperature change,7012,December,2015,2015,°c,-0.574,E,Estimated value
+ET,Temperature change on land,729,Sudan,7271,Temperature change,7001,January,2011,2011,°c,-0.304,E,Estimated value
+ET,Temperature change on land,729,Sudan,7271,Temperature change,7001,January,2012,2012,°c,-0.472,E,Estimated value
+ET,Temperature change on land,729,Sudan,7271,Temperature change,7001,January,2016,2016,°c,-1.129,E,Estimated value
+ET,Temperature change on land,729,Sudan,7271,Temperature change,7001,January,2017,2017,°c,2.767,E,Estimated value
+ET,Temperature change on land,729,Sudan,7271,Temperature change,7001,January,2018,2018,°c,-0.779,E,Estimated value
+ET,Temperature change on land,729,Sudan,7271,Temperature change,7001,January,2020,2020,°c,-1.365,E,Estimated value
+ET,Temperature change on land,729,Sudan,7271,Temperature change,7002,February,2013,2013,°c,2.531,E,Estimated value
+ET,Temperature change on land,729,Sudan,7271,Temperature change,7002,February,2015,2015,°c,2.63,E,Estimated value
+ET,Temperature change on land,729,Sudan,7271,Temperature change,7002,February,2017,2017,°c,-0.468,E,Estimated value
+ET,Temperature change on land,729,Sudan,7271,Temperature change,7002,February,2018,2018,°c,3.755,E,Estimated value
+ET,Temperature change on land,729,Sudan,7271,Temperature change,7002,February,2020,2020,°c,-0.713,E,Estimated value
+ET,Temperature change on land,729,Sudan,7271,Temperature change,7003,March,2016,2016,°c,3.774,E,Estimated value
+ET,Temperature change on land,729,Sudan,7271,Temperature change,7011,November,2011,2011,°c,-0.948,E,Estimated value
+ET,Temperature change on land,729,Sudan,7271,Temperature change,7012,December,2015,2015,°c,-1.367,E,Estimated value
+ET,Temperature change on land,729,Sudan,7271,Temperature change,7012,December,2017,2017,°c,2.653,E,Estimated value
+ET,Temperature change on land,729,Sudan,7271,Temperature change,7016,Dec–Jan–Feb,2016,2016,°c,-0.569,E,Estimated value
+ET,Temperature change on land,729,Sudan,7271,Temperature change,7016,Dec–Jan–Feb,2020,2020,°c,-0.467,E,Estimated value
+ET,Temperature change on land,736,Sudan (former),7271,Temperature change,7001,January,2010,2010,°c,2.544,E,Estimated value
+ET,Temperature change on land,736,Sudan (former),7271,Temperature change,7002,February,2010,2010,°c,2.692,E,Estimated value
+ET,Temperature change on land,736,Sudan (former),7271,Temperature change,7004,April,2010,2010,°c,2.912,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7001,January,2017,2017,°c,-1.244,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7001,January,2019,2019,°c,-0.429,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7002,February,2010,2010,°c,3.068,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7002,February,2011,2011,°c,-0.427,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7002,February,2012,2012,°c,-2.57,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7002,February,2013,2013,°c,-0.397,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7002,February,2015,2015,°c,-1.106,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7002,February,2019,2019,°c,-0.401,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7003,March,2010,2010,°c,2.605,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7003,March,2013,2013,°c,3.101,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7003,March,2018,2018,°c,2.867,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7004,April,2013,2013,°c,2.695,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7004,April,2016,2016,°c,3.538,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7004,April,2018,2018,°c,2.753,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7004,April,2020,2020,°c,2.532,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7005,May,2015,2015,°c,2.982,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7005,May,2017,2017,°c,2.754,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7005,May,2020,2020,°c,3.748,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7006,June,2012,2012,°c,3.132,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7006,June,2019,2019,°c,3.653,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7007,July,2012,2012,°c,2.971,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7007,July,2018,2018,°c,3.937,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7007,July,2019,2019,°c,3.072,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7008,August,2012,2012,°c,2.509,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7008,August,2019,2019,°c,2.659,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7008,August,2020,2020,°c,2.647,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7009,September,2014,2014,°c,3.556,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7010,October,2012,2012,°c,3.807,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7010,October,2013,2013,°c,4.653,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7010,October,2014,2014,°c,3.436,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7010,October,2015,2015,°c,2.94,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7010,October,2016,2016,°c,4.301,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7011,November,2012,2012,°c,3.661,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7011,November,2014,2014,°c,2.935,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7012,December,2019,2019,°c,2.713,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7016,Dec–Jan–Feb,2010,2010,°c,2.7,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7016,Dec–Jan–Feb,2012,2012,°c,-0.371,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7017,Mar–Apr–May,2013,2013,°c,2.517,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7018,Jun–Jul–Aug,2012,2012,°c,2.871,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7018,Jun–Jul–Aug,2019,2019,°c,3.128,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7019,Sep–Oct–Nov,2012,2012,°c,3.143,E,Estimated value
+ET,Temperature change on land,788,Tunisia,7271,Temperature change,7019,Sep–Oct–Nov,2014,2014,°c,3.309,E,Estimated value
+ET,Temperature change on land,800,Uganda,7271,Temperature change,7004,April,2018,2018,°c,-0.937,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7001,January,2010,2010,°c,2.664,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7001,January,2016,2016,°c,3.258,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7002,February,2010,2010,°c,3.319,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7002,February,2012,2012,°c,-0.504,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7002,February,2018,2018,°c,-0.519,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7002,February,2020,2020,°c,3.141,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7003,March,2010,2010,°c,2.661,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7004,April,2010,2010,°c,3.269,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7004,April,2013,2013,°c,2.732,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7004,April,2014,2014,°c,2.673,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7004,April,2015,2015,°c,2.599,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7004,April,2017,2017,°c,3.624,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7005,May,2011,2011,°c,2.667,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7005,May,2015,2015,°c,3.539,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7006,June,2011,2011,°c,3.367,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7006,June,2017,2017,°c,3.176,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7006,June,2020,2020,°c,3.177,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7009,September,2020,2020,°c,2.729,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7011,November,2012,2012,°c,2.541,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7012,December,2010,2010,°c,3.39,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7012,December,2015,2015,°c,2.611,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7012,December,2016,2016,°c,2.562,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7012,December,2018,2018,°c,2.509,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7016,Dec–Jan–Feb,2010,2010,°c,3.005,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7016,Dec–Jan–Feb,2016,2016,°c,2.532,E,Estimated value
+ET,Temperature change on land,732,Western Sahara,7271,Temperature change,7018,Jun–Jul–Aug,2020,2020,°c,2.577,E,Estimated value
+ET,Temperature change on land,894,Zambia,7271,Temperature change,7003,March,2015,2015,°c,3.685,E,Estimated value
+ET,Temperature change on land,894,Zambia,7271,Temperature change,7003,March,2017,2017,°c,-0.985,E,Estimated value
+ET,Temperature change on land,894,Zambia,7271,Temperature change,7004,April,2012,2012,°c,-0.839,E,Estimated value
+ET,Temperature change on land,894,Zambia,7271,Temperature change,7004,April,2018,2018,°c,-0.282,E,Estimated value
+ET,Temperature change on land,894,Zambia,7271,Temperature change,7005,May,2010,2010,°c,3.168,E,Estimated value
+ET,Temperature change on land,894,Zambia,7271,Temperature change,7005,May,2016,2016,°c,-1.079,E,Estimated value
+ET,Temperature change on land,894,Zambia,7271,Temperature change,7007,July,2018,2018,°c,-0.376,E,Estimated value
+ET,Temperature change on land,894,Zambia,7271,Temperature change,7008,August,2020,2020,°c,2.874,E,Estimated value
+ET,Temperature change on land,894,Zambia,7271,Temperature change,7009,September,2019,2019,°c,-0.731,E,Estimated value
+ET,Temperature change on land,894,Zambia,7271,Temperature change,7010,October,2016,2016,°c,2.546,E,Estimated value
+ET,Temperature change on land,894,Zambia,7271,Temperature change,7010,October,2018,2018,°c,-1.015,E,Estimated value
+ET,Temperature change on land,894,Zambia,7271,Temperature change,7011,November,2019,2019,°c,2.715,E,Estimated value
+ET,Temperature change on land,894,Zambia,7271,Temperature change,7012,December,2019,2019,°c,3.286,E,Estimated value
+ET,Temperature change on land,716,Zimbabwe,7271,Temperature change,7002,February,2011,2011,°c,-0.44,E,Estimated value
+ET,Temperature change on land,716,Zimbabwe,7271,Temperature change,7002,February,2016,2016,°c,2.533,E,Estimated value
+ET,Temperature change on land,716,Zimbabwe,7271,Temperature change,7002,February,2018,2018,°c,-0.701,E,Estimated value
+ET,Temperature change on land,716,Zimbabwe,7271,Temperature change,7003,March,2017,2017,°c,-0.486,E,Estimated value
+ET,Temperature change on land,716,Zimbabwe,7271,Temperature change,7004,April,2012,2012,°c,-0.824,E,Estimated value
+ET,Temperature change on land,716,Zimbabwe,7271,Temperature change,7004,April,2013,2013,°c,-0.534,E,Estimated value
+ET,Temperature change on land,716,Zimbabwe,7271,Temperature change,7004,April,2014,2014,°c,-0.57,E,Estimated value
+ET,Temperature change on land,716,Zimbabwe,7271,Temperature change,7004,April,2017,2017,°c,-0.779,E,Estimated value
+ET,Temperature change on land,716,Zimbabwe,7271,Temperature change,7005,May,2016,2016,°c,-0.346,E,Estimated value
+ET,Temperature change on land,716,Zimbabwe,7271,Temperature change,7008,August,2011,2011,°c,-0.454,E,Estimated value
+ET,Temperature change on land,716,Zimbabwe,7271,Temperature change,7008,August,2018,2018,°c,2.871,E,Estimated value
+ET,Temperature change on land,716,Zimbabwe,7271,Temperature change,7009,September,2018,2018,°c,2.948,E,Estimated value
+ET,Temperature change on land,716,Zimbabwe,7271,Temperature change,7010,October,2013,2013,°c,-0.732,E,Estimated value
+ET,Temperature change on land,716,Zimbabwe,7271,Temperature change,7010,October,2018,2018,°c,-1.026,E,Estimated value
+ET,Temperature change on land,716,Zimbabwe,7271,Temperature change,7011,November,2017,2017,°c,-0.458,E,Estimated value
+ET,Temperature change on land,716,Zimbabwe,7271,Temperature change,7012,December,2015,2015,°c,2.973,E,Estimated value
+ET,Temperature change on land,716,Zimbabwe,7271,Temperature change,7012,December,2020,2020,°c,-0.303,E,Estimated value
+ET,Temperature change on land,716,Zimbabwe,7271,Temperature change,7017,Mar–Apr–May,2017,2017,°c,-0.369,E,Estimated value

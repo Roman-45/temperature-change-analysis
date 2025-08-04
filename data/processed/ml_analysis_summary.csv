@@ -1,0 +1,2 @@
+analysis_type,models_trained,best_model,best_r2_score,countries_analyzed,innovation_implemented,export_success_count,export_error_count,analysis_date,ready_for_powerbi,exam_requirements_met
+machine_learning_complete,2,Random Forest,0.26772325797211005,61,Advanced_Climate_Impact_Scoring,9,0,2025-08-03T19:02:30.663657,True,True

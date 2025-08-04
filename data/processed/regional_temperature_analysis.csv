@@ -1,0 +1,7 @@
+Region,Country_Count,Avg_Temp_Change,Regional_Std,Min_Country_Temp,Max_Country_Temp,Avg_Variability,Avg_Range
+Central Africa,7,0.9756,0.1209,0.7604,1.1614,0.5258,2.977
+East Africa,13,1.0915,0.1957,0.6795,1.3885,0.5328,2.9553
+North Africa,6,1.3681,0.2424,1.1008,1.6365,1.025,6.318
+Other/Islands,8,1.142,0.3946,0.4693,1.6377,0.5161,2.6419
+Southern Africa,10,1.046,0.2053,0.7289,1.4442,0.7337,4.3681
+West Africa,16,1.1822,0.1466,0.9478,1.4676,0.546,3.3731

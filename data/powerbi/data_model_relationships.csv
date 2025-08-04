@@ -1,0 +1,4 @@
+From_Table,From_Column,To_Table,To_Column,Relationship_Type,Cross_Filter,Description
+temperature_fact_table,Area,country_dimension,Country,Many-to-One,Single,Links temperature records to country details
+temperature_fact_table,Year,time_dimension,Year,Many-to-Many,Both,Links temperature records to time periods
+temperature_fact_table,Months,time_dimension,Month,Many-to-Many,Both,Links temperature records to specific months/seasons

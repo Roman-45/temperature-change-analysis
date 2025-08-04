@@ -1,0 +1,19 @@
+Measure_Name,DAX_Formula,Description,Category,Format
+Average Temperature Change,AVERAGE(Temperature_Data[Value]),Average temperature change across selected data,Basic Statistics,"0.000""°C"""
+Global Average Temperature,"CALCULATE([Average Temperature Change], ALL(Temperature_Data[Area]))",Global average for comparison purposes,Comparison,"0.000""°C"""
+Total Countries,DISTINCTCOUNT(Temperature_Data[Area]),Count of unique countries in selection,Count,0
+Total Records,COUNT(Temperature_Data[Value]),Total number of temperature records,Count,"0,000"
+Countries Above Global Average,"SUMX(VALUES(Temperature_Data[Area]), IF([Average Temperature Change] > [Global Average Temperature], 1, 0))",Number of countries above global average,Comparison,0
+Temperature Trend,"VAR CurrentYear = MAX(Temperature_Data[Year])
+VAR PreviousYear = CurrentYear - 1
+VAR CurrentTemp = CALCULATE([Average Temperature Change], Temperature_Data[Year] = CurrentYear)
+VAR PreviousTemp = CALCULATE([Average Temperature Change], Temperature_Data[Year] = PreviousYear)
+RETURN CurrentTemp - PreviousTemp",Year-over-year temperature change trend,Trend Analysis,"+0.000""°C"";-0.000""°C"""
+High Risk Countries,"CALCULATE([Total Countries], Country_Dim[Risk_Level] IN {""High"", ""Very High""})",Count of countries with high climate risk,Risk Assessment,0
+Temperature Variability,STDEV.P(Temperature_Data[Value]),Standard deviation of temperature changes,Variability,"0.000""°C"""
+Data Quality Score,"DIVIDE(CALCULATE(COUNT(Temperature_Data[Value]), Temperature_Data[Data_Quality] = ""Measured""), COUNT(Temperature_Data[Value]))",Percentage of measured (non-estimated) values,Data Quality,0.0%
+Extreme Events Count,"CALCULATE(COUNT(Temperature_Data[Value]), OR(Temperature_Data[Value] > 2, Temperature_Data[Value] < -2))",Count of extreme temperature events (>2°C or <-2°C),Extreme Events,"0,000"
+Regional Risk Score,AVERAGE(Country_Dim[Climate_Risk_Score]),Average climate risk score for selected region,Risk Assessment,0.000
+Warming Acceleration,"VAR CurrentPeriod = CALCULATE([Average Temperature Change], Temperature_Data[Year_Category] = ""Recent Period"")
+VAR EarlyPeriod = CALCULATE([Average Temperature Change], Temperature_Data[Year_Category] = ""Early Period"")
+RETURN CurrentPeriod - EarlyPeriod",Difference between recent and early period temperatures,Trend Analysis,"+0.000""°C"";-0.000""°C"""

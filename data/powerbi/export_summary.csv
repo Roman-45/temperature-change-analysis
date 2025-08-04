@@ -1,0 +1,2 @@
+export_date,total_files_created,main_fact_table_records,country_dimension_records,time_dimension_records,dax_measures_count,summary_statistics_count,data_validation_status,temperature_range,countries_covered,years_covered,regions_included,performance_optimizations
+2025-08-03T19:24:44.881591,8,11407,61,187,12,14,PASSED,-2.765 to 4.653°C,61,2010-2020,"['Central Africa', 'East Africa', 'North Africa', 'Other/Islands', 'Southern Africa', 'West Africa']","['Indexed columns', 'Categorical encoding', 'Date hierarchies', 'Aggregated measures']"

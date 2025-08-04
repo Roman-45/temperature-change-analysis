@@ -1,0 +1,2 @@
+analysis_type,total_countries,regions_analyzed,highest_warming_country,highest_warming_value,most_vulnerable_region,optimal_clusters,clustering_silhouette_score,clustering_calinski_score,high_risk_countries,analysis_date
+geographic_patterns,61,6,Western Sahara,1.6377,North Africa,5,0.44815213662069775,51.6270493615678,14,2025-08-03T18:34:01.346031
